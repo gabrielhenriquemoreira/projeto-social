@@ -41,3 +41,11 @@ section#telefone {
     background-position: center center;
     
 }
+
+iframe#tela {
+    position: relative;
+    top: 83px;
+    left: 25px;
+    width: 261px;
+    height: 466px;
+}
